@@ -1,0 +1,14 @@
+Class exercise:
+
+1- Create a class HomePage
+2- Create a class HomePageExecutor
+3- Create a class SearchPage, Inside class create a variable 
+cityname, pincode, address, cityPrefix example if city name is Amravati then city prefix is A
+
+IN the same class create below methods
+SearchCity()
+EnterPinCode()
+SearchCityUsingSearchButton()
+4- Create a class Weather and inside class createa a method
+TodaysWeather
+YesterdaysWeather
