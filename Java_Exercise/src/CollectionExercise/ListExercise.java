@@ -14,6 +14,7 @@ public class ListExercise {
         fruits.add("orange");
         fruits.add("strawaberry");
 
+
         System.out.println(fruits);
 
         List<Integer> numbers = new ArrayList();

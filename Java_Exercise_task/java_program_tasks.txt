@@ -12,3 +12,34 @@ SearchCityUsingSearchButton()
 4- Create a class Weather and inside class createa a method
 TodaysWeather
 YesterdaysWeather
+
+Interface, Inheritence exercise
+Exercise:
+
+1- Create a interface Shape. Inside interface declare a method CalculateArea which accept integer length and integer breadth.
+
+Then create a class Rectangle and implements the interface Shape
+[Then you will see error and you have to implement the method definition ]
+inside Shape method provide the below logic
+
+System.out.println("The area of the rectangle is " + (length * breadth));
+
+Create a Another class ShapeExecutor. Create a main method and inside it create a object of Rectangle class and call the method Shape
+
+
+2- Create a inteface ILanguage. Inside this create method GetSyntax and GetName
+Create 2 classes one is Java and another is CSharp
+In above both the clases implment ILanguage interface and provide the definition for those methods. As part of definition print some print statements
+
+List Exercise:
+
+1- Create a list 5 of cities. get each element and print
+2- create a list of 4 birds and remove them all
+3- create a list of 5 programming language names print all of them line by line
+4- Create a list 4 pin codes and print each one of them
+5- Create a list of 4 bikes like honda, hero, kinetic, kawasaki and change the kawasaki with KAWASAKI. Print all of the items line by line using for each loop.
+Then delete a kinetic bike and add new bike name as Activa
+6- Create a 2 list one is with bird name and another is with city name and add one list into another list
+Hint:
+1- use addAll method
+2- take a help from google
