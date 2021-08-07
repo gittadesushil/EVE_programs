@@ -43,3 +43,15 @@ Then delete a kinetic bike and add new bike name as Activa
 Hint:
 1- use addAll method
 2- take a help from google
+
+SET + HashMap Exercise :
+1- Create a hashmap where key is pincode and value is village name
+2- Create a hashmap where key is each alphabet and value is name of fruit start with that alphabet
+Example: Key is A and value is Apple ( like a for apple)
+3- Create a hashmap where key is temperature value in float and value is temeperature in word
+Example: 29.30 is key and value is twenty nine dot thirty
+
+Set exercise
+1- Create a list of cities with duplicate name and convert the same list into set ( we already saw this example watch video or google it)
+2- Create a set of pincodes
+3- Create a set where you keep your friends name inside it
