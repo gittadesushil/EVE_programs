@@ -55,3 +55,17 @@ Set exercise
 1- Create a list of cities with duplicate name and convert the same list into set ( we already saw this example watch video or google it)
 2- Create a set of pincodes
 3- Create a set where you keep your friends name inside it
+
+Selenium-Java homework
+
+1- Setup a project https://drive.google.com/file/d/18iYbX2iAU_K_bGycqkTr7g6ohtIHCTp5/view
+2- Upload whole project to github.com
+3- Create a first selenium program
+4- Open a browser and navigate to https://foodstore-1.web.app/
+5- get title
+get url
+maximize browser
+full screen browser
+get size height and width
+quit the browser
+........... finally upload this code to github.com again
